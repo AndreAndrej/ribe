@@ -4,7 +4,3 @@ predvez
 cizme
 torba
 stap
-carape
-jakna
-kapa
-leader
