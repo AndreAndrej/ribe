@@ -2,3 +2,5 @@ muhe
 snjura
 predvez
 cizme
+torba
+stap
