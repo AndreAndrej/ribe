@@ -6,3 +6,5 @@ torba
 stap
 carape
 jakna
+kapa
+leader
